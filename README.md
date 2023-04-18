@@ -29,6 +29,7 @@ You will also need a code editor of your choice, such as Visual Studio Code or S
 ### Challenge Description
 
 In the `frontend` directory, you will find a set of assets and a Figma design file that represents a landing page. We recommend you copy the Figma file to your account so that you are able to access the styling attributes like font size, color and font style, and icons. Your first task is to create a responsive landing page that follows the provided design using Bootstrap.
+Figma file: https://www.figma.com/file/4tIc6oxGmDLdpnGvHn0EgJ/Reactjs-Test?node-id=0%3A1&t=BBNZcDsqGm3ZQ58m-1
 
 ### Requirements
 
